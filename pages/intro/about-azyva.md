@@ -11,4 +11,5 @@ toc: false
 # folder: intro
 ---
 
-This is a test.
+AZYVA INC. is the company behind Dragom. Please visit
+[http://dragom.org](http://dragom.org).
