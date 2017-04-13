@@ -1,6 +1,6 @@
 ---
 title: About AZYVA INC.
-keywords: azyva
+# keywords:
 last_updated: 2016-12-01
 tags: [intro]
 # summary: ""
